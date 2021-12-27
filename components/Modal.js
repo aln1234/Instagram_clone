@@ -58,7 +58,7 @@ function Modal() {
                                 //ref ={file picker}
                                 hidden
                                 type="file"
-                                onChange={addImageToPost}
+                                // onChange={addImageToPost}
                                 />
                                 </div>
                                 <div className="mt-2">
